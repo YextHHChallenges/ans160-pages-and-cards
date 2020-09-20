@@ -9,7 +9,7 @@
     "stagingCredentials": {
       "password": "test",
       "username": "test"
-    }
+    } 
   },
   "repoConfig": {
     "targetRepoName": "answers-hitchhiker-training.turtleheadtacos-${{businessId}}.com",
