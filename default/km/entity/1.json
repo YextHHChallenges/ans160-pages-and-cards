@@ -58,7 +58,7 @@
     "attire": "CASUAL",
     "description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
     "featuredMessage": {
-      "description": "Order online today",
+      "description": "Order online today!",
       "url": "http://www.turtleheadtacos.com"
     },
     "geomodifier": "Austin",
